@@ -16,4 +16,4 @@ I'm a UX Feature Lead who loves UX research and improving human machine interact
 ![Tool 2](https://img.shields.io/badge/-Tool2-05122A?style=flat&logo=tool2&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsaberi6&show_icons=true&hide_title=true)
