@@ -1,5 +1,3 @@
-# bsaberi6
-My personal repository
 # 👋 Hi, I'm Babak Saberi
 
 ## 🚀 About Me
