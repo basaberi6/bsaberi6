@@ -12,8 +12,8 @@ I'm a UX Feature Lead who loves UX research and improving human machine interact
 - ⚡ Fun fact: My hobby is working on my car
 
 ## 🛠️ Languages and Tools
-![Tool 1](https://img.shields.io/badge/-Tool1-05122A?style=flat&logo=tool1&logoColor=white)
-![Tool 2](https://img.shields.io/badge/-Tool2-05122A?style=flat&logo=tool2&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=basaberi6&show_icons=true&hide_title=true)
