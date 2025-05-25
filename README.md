@@ -1,15 +1,15 @@
 # bsaberi6
 My personal repository
-# 👋 Hi, I'm [Babak Saberi]
+# 👋 Hi, I'm Babak Saberi
 
 ## 🚀 About Me
-I'm a [Your Profession/Interest] who loves [a few things you're passionate about].
+I'm a UX Feature Lead who loves UX research and improving human machine interactions.
 
-- 🔭 I’m currently working on **[project name]**
-- 🌱 I’m currently learning **[topic/technology]**
+- 🔭 I’m currently working on **Obtaining a Data Scirence Certificate**
+- 🌱 I’m currently learning **Python**
 - 💬 Ask me about **[topics you know well]**
-- 📫 How to reach me: [your email or social links]
-- ⚡ Fun fact: I [something interesting about you]
+- 📫 How to reach me: babak.s.747@gmail.com
+- ⚡ Fun fact: My hobby is working on my car
 
 ## 🛠️ Languages and Tools
 ![Tool 1](https://img.shields.io/badge/-Tool1-05122A?style=flat&logo=tool1&logoColor=white)
