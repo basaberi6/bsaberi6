@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Babak Saberi
 
 ## 🚀 About Me
-I'm a UX Feature Lead who loves UX research and improving human machine interactions.
+I'm a curious UX Feature Lead who loves UX research and improving human machine interactions.
 
 - 🔭 I’m currently working on **Obtaining a Data Scirence Certificate**
 - 🌱 I’m currently learning **Python**
