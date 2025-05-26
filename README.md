@@ -7,7 +7,7 @@ I'm a curious UX Feature Lead who loves UX research and improving human machine 
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **User Experience Research**
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/babak-saberi)
-- ⚡ Fun fact: 🚗 Car enthusiast | Designing UX a ¼ mile at a time
+- ⚡ Fast fact: 🚗 Car enthusiast | Please bring back fun cars 
 
 
 ## 🛠️ Languages and Tools
