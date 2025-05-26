@@ -6,7 +6,7 @@ I'm a curious UX Feature Lead who loves UX research and improving human machine 
 - 🔭 I’m currently working on **Obtaining a Data Scirence Certificate**
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **User Experience Research**
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/babak-saberi)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/babak-saberi/)
 - ⚡ Fun fact: My hobby is working on my car
 
 ## 🛠️ Languages and Tools
